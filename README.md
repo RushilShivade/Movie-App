@@ -1,5 +1,5 @@
 # Movie-App
-A website that shows all the information needed for a movie like description, rating, trailer etc.
+A website that shows all the information needed for a movie like description, rating, YouTube official trailer etc.
 
 This website is created using HTML, CSS and JavaScript.
 Home Page:
